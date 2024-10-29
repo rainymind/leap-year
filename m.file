@@ -1,4 +1,4 @@
-% 000000000000000
+% 01
 % Get the year from the user.
 year = input('Please enter the year: ');
 % Check if the year is a leap year or not.
